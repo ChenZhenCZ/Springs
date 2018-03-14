@@ -1,4 +1,4 @@
-package com.cz.websocket;
+package com.cz.springbootjpa;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class WebsocketApplicationTests {
+public class SpringbootjpaApplicationTests {
 
 	@Test
 	public void contextLoads() {
